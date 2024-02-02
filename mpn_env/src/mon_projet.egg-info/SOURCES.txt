@@ -1,0 +1,7 @@
+pyproject.toml
+setup.cfg
+src/mon_projet.egg-info/PKG-INFO
+src/mon_projet.egg-info/SOURCES.txt
+src/mon_projet.egg-info/dependency_links.txt
+src/mon_projet.egg-info/requires.txt
+src/mon_projet.egg-info/top_level.txt
